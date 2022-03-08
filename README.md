@@ -8,18 +8,18 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hi, I’m abimelsbk</li>
-  <li>❤️ I love Creating websites and Programming in Python.</li>
+  <li>❤️ I love Creating websites and designing logos.</li>
   <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
-  <li>💼 I'm a Front end developer at Crediometer.</li>
-  <li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>
+  <li>💼 I'm a Front end developer at TapGlobe.</li>
+  <li>🧐 Portfolio Website, https://abimelsbk.github.io</li>
 </ul>
 
 #### A little more about me
 ```javascript
 const badri = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
+  code: ["Javascript", "Bootsrap", "HTML", "CSS", "wordpress"],
+  askMeAbout: ["web dev", "frontend dev", "Adobe illustrator", "figma"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap"],
       backend: ["Flask", "JS"],
@@ -92,4 +92,4 @@ Linux Ubuntu             14 hrs 2 mins      ████████████
 ```
 ------
 Credit: [MrBlueBird2](https://github.com/MrBlueBird2)
-Last Edited on: 25/09/2021.
+
