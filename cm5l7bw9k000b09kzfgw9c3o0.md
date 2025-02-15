@@ -10,6 +10,29 @@ tags: github, git, github-actions-1, git-commands, gitcheatsheet
 
 Git is an essential tool for modern software development, enabling efficient version control, collaboration, and automation. Whether you're just starting with Git or looking to streamline your workflows, having a quick reference can make a huge difference. This Git cheatsheet provides a concise overview of the most commonly used Git commands and concepts. From managing repositories and branches to handling commits and merges, this guide is designed to help developers navigate Git with ease. Whether you're working solo or as part of a team, this cheatsheet will serve as a handy resource to improve your Git proficiency and boost productivity.
 
+## Important Git Commands
+
+### Create a new repository on the command line
+
+```javascript
+echo "# sample-hello" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin <repository-url>
+git push -u origin main
+
+```
+
+### or push an existing repository from the command line
+
+```javascript
+git remote add origin <repository-url>
+git branch -M main
+git push -u origin main
+```
+
 ## Getting Started
 
 ### Configure Git
