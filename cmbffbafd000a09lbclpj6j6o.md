@@ -19,7 +19,7 @@ Before building a website, you need a **Product Requirement Document (PRD)**. Th
 ### Prompt to use in ChatGPT:
 
 ```markdown
-textCopyEditCreate a PRD for a personal portfolio website. It should include a homepage, about section, projects section, contact form, and be responsive with a clean design.
+Create a PRD for a personal portfolio website. It should include a homepage, about section, projects section, contact form, and be responsive with a clean design.
 ```
 
 ### Sample Output:
@@ -87,7 +87,7 @@ git --version
 
 ### [C](https://git-scm.com/downloads)reate a GitHub Account[:](https://git-scm.com/downloads)
 
-1. [Go to](https://git-scm.com/downloads) [https://github.com](https://github.com)
+1. Go to [https://github.com](https://github.com)
     
 2. Sign up and verify your email
     
@@ -102,9 +102,9 @@ git --version
 
 ### Open VS Code:
 
-* [Download it from](https://git-scm.com/downloads) [https://code.visualstudio.com](https://code.visualstudio.com)
+* Download it from [https://code.visualstudio.com](https://code.visualstudio.com)
     
-* [Open the extracted folder](https://git-scm.com/downloads) using **File &gt; O**[**pe**](https://code.visualstudio.com)**n Folde**[**r**](https://git-scm.com/downloads)
+* Open the extracted folder using **File &gt; Open Folde**[**r**](https://git-scm.com/downloads)
     
 
 ### Initialize Git in the VS [Code Terminal:](https://github.com)
