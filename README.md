@@ -62,12 +62,6 @@ const badri = {
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=abimelsbk&theme=onedark" alt="MrBlueBird2" />
 </p>
 
-#### Contribution Graph
-[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=abimelsbk&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
-<!---
-MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 #### I'm an Early 🐤
 ```text
