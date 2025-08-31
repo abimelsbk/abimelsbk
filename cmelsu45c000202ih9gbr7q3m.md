@@ -1,13 +1,15 @@
 ---
-title: "SQL Injection Vulnerability at LogIn-SignUp PHP Project"
+title: "Abimel S B Kulumala secures CVE-2025-51092 recognition in NVD for uncovering critical SQL Injection vulnerability"
 datePublished: Thu Aug 21 2025 19:33:06 GMT+0000 (Coordinated Universal Time)
 cuid: cmelsu45c000202ih9gbr7q3m
-slug: sql-injection-vulnerability-at-login-signup-php-project
+slug: abimel-s-b-kulumala-secures-cve-2025-51092-recognition-in-nvd-for-uncovering-critical-sql-injection-vulnerability
 tags: sqlinjection
 
 ---
 
 **Vulnerability Type** - SQL Injection
+
+**CVE ID:** CVE-2025-51092
 
 **Additional Information**
 
@@ -33,6 +35,16 @@ Remote unauthenticated attackers can exploit the login or signup POST endpoints 
 
 **Reference**
 
+[https://nvd.nist.gov/vuln/detail/CVE-2025-51092](https://nvd.nist.gov/vuln/detail/CVE-2025-51092)
+
+[https://www.cve.org/CVERecord?id=CVE-2025-51092](https://www.cve.org/CVERecord?id=CVE-2025-51092)
+
+[https://vulners.com/cve/CVE-2025-51092](https://vulners.com/cve/CVE-2025-51092)
+
+[https://gist.github.com/abimelsbk/0072479d644e245b762a58751a9df101](https://gist.github.com/abimelsbk/0072479d644e245b762a58751a9df101)
+
+[https://www.cisa.gov/news-events/bulletins/sb25-237](https://www.cisa.gov/news-events/bulletins/sb25-237)
+
 [https://en.wikipedia.org/wiki/SQL\_injection](https://en.wikipedia.org/wiki/SQL_injection)
 
 **Vendor of Product**
@@ -42,3 +54,7 @@ Vendor Name: Vishnu Sivadas
 Affected Product Code Base - [https://github.com/VishnuSivadasVS/LogIn-SignUp](https://github.com/VishnuSivadasVS/LogIn-SignUp) 1; LogIn-SignUp PHP Project (no versioning system, latest commit used at the time of testing) 1
 
 **Reported by** - [Abimel S B kulumala](https://www.linkedin.com/in/abimelsbk/)
+
+**CVE ID:** CVE-2025-51092
+
+**About Abimel S B Kulumala:** Abimel S B Kulumala is a cybersecurity researcher with expertise in vulnerability discovery and secure application development. His contributions focus on improving web security by uncovering critical flaws and recommending effective remediation strategies. He is ranked 34 in the list of top 200 cybersecurity professionals Published by Favikon.
