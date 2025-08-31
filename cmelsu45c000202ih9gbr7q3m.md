@@ -5,7 +5,7 @@ seoDescription: "Abimel S B Kulumala secures CVE-2025-51092 recognition in NVD f
 datePublished: Thu Aug 21 2025 19:33:06 GMT+0000 (Coordinated Universal Time)
 cuid: cmelsu45c000202ih9gbr7q3m
 slug: abimel-s-b-kulumala-secures-cve-2025-51092-recognition-in-nvd-for-uncovering-critical-sql-injection-vulnerability
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1756658092674/5c1d26ab-7767-4bad-a8a1-c1e4528c3fbe.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1756658357027/24b8f6bc-e0c1-432a-8bdb-c66df3b29d5d.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1756658071970/51ca9d4b-0eb2-4c12-ad87-d5b9e0999aba.jpeg
 tags: sqlinjection
 
