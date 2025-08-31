@@ -1,5 +1,7 @@
 ---
 title: "Abimel S B Kulumala secures CVE-2025-51092 recognition in NVD for uncovering critical SQL Injection vulnerability"
+seoTitle: "Abimel S B Kulumala secures CVE-2025-51092"
+seoDescription: "Abimel S B Kulumala secures CVE-2025-51092 recognition in NVD for uncovering critical SQL Injection vulnerability"
 datePublished: Thu Aug 21 2025 19:33:06 GMT+0000 (Coordinated Universal Time)
 cuid: cmelsu45c000202ih9gbr7q3m
 slug: abimel-s-b-kulumala-secures-cve-2025-51092-recognition-in-nvd-for-uncovering-critical-sql-injection-vulnerability
