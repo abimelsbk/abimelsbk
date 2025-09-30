@@ -1,5 +1,7 @@
 ---
 title: "Claude Sonnet 4.5: A Developer-Focused Leap Forward"
+seoTitle: "Claude Sonnet 4.5"
+seoDescription: "A Developer-Focused Leap Forward"
 datePublished: Tue Sep 30 2025 16:27:24 GMT+0000 (Coordinated Universal Time)
 cuid: cmg6rtdm8000602l5fpzd5y6y
 slug: claude-sonnet-45-a-developer-focused-leap-forward
