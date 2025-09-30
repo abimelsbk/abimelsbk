@@ -5,6 +5,7 @@ seoDescription: "A Developer-Focused Leap Forward"
 datePublished: Tue Sep 30 2025 16:27:24 GMT+0000 (Coordinated Universal Time)
 cuid: cmg6rtdm8000602l5fpzd5y6y
 slug: claude-sonnet-45-a-developer-focused-leap-forward
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1759249840337/800ce58f-290d-4c49-b067-d28196388a12.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1759249636413/2879fc31-0f4e-4122-ab71-f2af80d2edb5.png
 tags: generative-ai, claudeai
 
@@ -90,6 +91,6 @@ A temporary research preview, **Imagine with Claude**, demonstrates real-time co
 
 ### Final Take
 
-Claude Sonnet 4.5 is a drop-in upgrade that boosts performance without raising costs. For developers, the **Claude Agent SDK** and expanded **Claude Code** features make this release one of the most important yet.
+[Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5) is a drop-in upgrade that boosts performance without raising costs. For developers, the **Claude Agent SDK** and expanded **Claude Code** features make this release one of the most important yet.
 
 If you’re building agents, writing complex code, or experimenting with long-running workflows—Claude Sonnet 4.5 gives you the tools to go further.
